@@ -137,9 +137,7 @@
     "postprocessing_enable_in_main_ui": [],
     "postprocessing_operation_order": [],
     "upscaling_max_images_in_cache": 5,
-    "disabled_extensions": [
-        "PromptGallery-stable-diffusion-webui"
-    ],
+    "disabled_extensions": [],
     "sd_checkpoint_hash": "fc2511737a54c5e80b89ab03e0ab4b98d051ab187f92860f3cd664dc9d08b271",
     "ldsr_steps": 100,
     "ldsr_cached": false,
